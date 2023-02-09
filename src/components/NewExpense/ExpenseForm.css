@@ -22,7 +22,7 @@
 .new-expense__actions {
     width: 100%;
     display: flex;
-    flex-direction: column;
+    flex-direction: row-reverse;
     align-items: flex-end;
 
     /* text-align: right; */
